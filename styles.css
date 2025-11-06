@@ -1,0 +1,45 @@
+.sr {
+    background-color: #c2d69b;
+}
+
+.si {
+    background-color: #dbe5f1;
+}
+
+.aw {
+    background-color: yellow;
+}
+
+.lepii {
+    background-color: white;
+}
+
+.eie {
+    background-color: #00b0f0;
+}
+
+.sor {
+    background-color: #fde9d9;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+.tarde>td {
+    border: 1px solid black;
+
+}
+
+.hora-tarde {
+    color: gray;
+    border-left-width: 0px;
+
+}
